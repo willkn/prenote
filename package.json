@@ -1,0 +1,25 @@
+{
+  "name": "prenote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvtoarray": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.28",
+    "moment": "^2.29.4",
+    "papaparse": "^5.4.1",
+    "pdfkit": "^0.13.0",
+    "pdfkit-table": "^0.1.99",
+    "pdfmake": "^0.2.7",
+    "stream-buffers": "^3.0.2",
+    "tabulator": "^0.2.40"
+  }
+}
